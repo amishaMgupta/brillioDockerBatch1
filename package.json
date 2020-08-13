@@ -1,0 +1,16 @@
+{
+  "name": "session8",
+  "version": "1.0.0",
+  "description": "1. we need to setup the env in our systems which is language dependent. 2. while working in Microserviced env we need to manage all the microservices manualy. 3. lots of Managmant work needs to be done.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
